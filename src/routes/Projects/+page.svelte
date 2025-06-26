@@ -10,7 +10,7 @@
   
   let projects = [
   {
-    name: "gb.c",
+    name: "GB.c",
     desc: "A Nintendo Gameboy Emulator in C.",
     link: "https://github.com/mooncell07/gb.c",
     color1: color_c1,
