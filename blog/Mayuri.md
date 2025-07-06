@@ -13,7 +13,7 @@
 # 0: Yeah precisely why I didn't switch to it earlier.
 # 1: So why now?
 # 0: The argument still stands but I don't think it's that big of a matter as I was thinking initially.
-# 0: I soon realised that my field of vision was pretty narrow, what i building was more of a design meant for command handlers, not general purpose communication libraries.
+# 0: I soon realised that my field of vision was pretty narrow, what i was building was more of a design meant for command handlers, not general purpose communication libraries.
 # 0: The truth is, generally speaking, nobody expects command handling from libs meant for communication.
 # 1: So, what are you gonna do about it? You're basically deligating the work to users of your lib.
 # 0: This is far out of scope for such a thing.
