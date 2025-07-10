@@ -28,8 +28,8 @@
   <div class="container-title">Welcome!</div>
   <div class="container-content"> Hey, this is nova/mooncell07, welcome to my personal blogging site. I developed this
   site as part of learning Web Development. My main interests include Emulator
-  Development and Network Programming though i do enjoy exploring other areas in tech. I also love playing games, currently i am actively playing Warframe,
-  SCP: Roleplay and Fate/Grand Order.<br><br>
+  Development and Network Programming though i do enjoy exploring other areas in tech. I also love playing games, and reading Visual Novels, 
+  Currently i am reading Umineko no Naku Koro ni Chiru.<br><br>
 
   This site uses the SvelteKit Frontend framework and color scheme is a combination of Rose Pine and Catppuccin.
   I think both the color schemes work well together.
